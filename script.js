@@ -1,0 +1,1 @@
+document.budy.innerHtml = '<h1> hello from java</h1>'
